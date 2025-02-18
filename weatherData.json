@@ -1,0 +1,25 @@
+{
+    "weatherData": [
+      { "city": "New York", "temperature": 18, "weather": "Cloudy", "humidity": 65, "windSpeed": 10 },
+      { "city": "London", "temperature": 12, "weather": "Rainy", "humidity": 80, "windSpeed": 15 },
+      { "city": "Dubai", "temperature": 35, "weather": "Sunny", "humidity": 20, "windSpeed": 5 },
+      { "city": "Paris", "temperature": 14, "weather": "Clear", "humidity": 70, "windSpeed": 8 },
+      { "city": "Tokyo", "temperature": 22, "weather": "Sunny", "humidity": 50, "windSpeed": 12 },
+      { "city": "Sydney", "temperature": 25, "weather": "Clear", "humidity": 60, "windSpeed": 7 },
+      { "city": "Berlin", "temperature": 10, "weather": "Cloudy", "humidity": 55, "windSpeed": 18 },
+      { "city": "Moscow", "temperature": -5, "weather": "Cloudy", "humidity": 85, "windSpeed": 6 },
+      { "city": "Los Angeles", "temperature": 28, "weather": "Sunny", "humidity": 15, "windSpeed": 9 },
+      { "city": "Rome", "temperature": 20, "weather": "Clear", "humidity": 65, "windSpeed": 6 },
+      { "city": "Toronto", "temperature": 8, "weather": "Rainy", "humidity": 75, "windSpeed": 11 },
+      { "city": "Madrid", "temperature": 19, "weather": "Sunny", "humidity": 45, "windSpeed": 5 },
+      { "city": "Bangkok", "temperature": 32, "weather": "Rainy", "humidity": 90, "windSpeed": 4 },
+      { "city": "Singapore", "temperature": 30, "weather": "Rainy", "humidity": 85, "windSpeed": 10 },
+      { "city": "Cape Town", "temperature": 18, "weather": "Clear", "humidity": 60, "windSpeed": 14 },
+      { "city": "Buenos Aires", "temperature": 22, "weather": "Cloudy", "humidity": 50, "windSpeed": 7 },
+      { "city": "Mumbai", "temperature": 28, "weather": "Rainy", "humidity": 70, "windSpeed": 13 },
+      { "city": "Cairo", "temperature": 33, "weather": "Sunny", "humidity": 25, "windSpeed": 8 },
+      { "city": "Seoul", "temperature": 16, "weather": "Clear", "humidity": 50, "windSpeed": 9 },
+      { "city": "Amsterdam", "temperature": 10, "weather": "Rainy", "humidity": 80, "windSpeed": 13 }
+    ]
+  }
+  
